@@ -92,6 +92,22 @@ h1.sm-heading, h2.sm-heading, h3.sm-heading {
     background: rgba(73, 73, 73, 0); 
 }
 
+.organizations {
+    margin-left: 10%;
+    display: inline-block;
+    width: auto;
+}
+.organizations img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    /*margin-top: -5%;*/
+}
+.organizations-info { 
+    font-size: 1.5rem; 
+    float: left;
+}
+
 .articles {
   margin: auto;
   width: 50%;
