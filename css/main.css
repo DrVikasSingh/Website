@@ -275,11 +275,11 @@ select{
         background-size: cover; 
     }
     #navbar a{
-        font-size: 20px;
+        font-size: 30px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 501px) and (max-width: 768px) {
     .articles {
         margin: auto;
         width: 70%;
