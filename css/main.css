@@ -262,6 +262,9 @@ select{
         margin: auto;
         width: 70%;
     }
+    .contact {
+        padding-top: 10%;
+    }
     body#bg-img:after {
         content: '';
         position: absolute;
@@ -284,6 +287,9 @@ select{
         margin: auto;
         width: 70%;
     }
+    .contact {
+        padding-top: 10%;
+    }
     body#bg-img:after {
         content: '';
         position: absolute;
@@ -305,6 +311,9 @@ select{
     .articles {
         margin: auto;
         width: 70%;
+    }
+    .contact {
+        padding-top: 10%;
     }
     body#bg-img:after {
         content: '';
