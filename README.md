@@ -1,4 +1,3 @@
-# drvikassingh.github.io
-Website:
+Github Page
 
 Website for Dr. Vikas Singh.
